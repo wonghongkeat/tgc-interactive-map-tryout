@@ -1,0 +1,6 @@
+/*must always set the height for the div to show the map*/
+
+#map {
+    height: 100vh;
+}
+
